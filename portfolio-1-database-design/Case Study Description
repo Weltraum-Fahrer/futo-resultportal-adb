@@ -4,3 +4,22 @@ The Federal University of Technology, Owerri (FUTO) is a public university opera
 The FUTO Student Result Portal manages the end-to-end academic lifecycle for over 30,000 active students across undergraduate and postgraduate programmes.
 
 System Users
+ * Students: View registered courses, check semester results, compute CGPA, and generate transcripts.
+
+ * Lecturers (Course Advisors / Examiners): Upload raw continuous assessment (CA) and examination marks for assigned courses.
+
+*  Heads of Department (HODs) / Deans of Schools: Review, approve, or reject submitted departmental grade sheets.
+
+*  Exams & Records Officers: Audit final grades, approve transcript requests, and process academic standing (e.g., First Class, Probation).
+
+*  System Administrators: Manage user access control, database security, and audit logs.
+
+Core System Operations
+* Course registration and unit validation during semester enrollment.
+
+* Multi-tier grade entry, calculation, approval, and publication.
+
+* Dynamic calculation of Semester Grade Point Average (SGPA) and Cumulative Grade Point Average (CGPA) based on FUTO's 5.0 grading scale.
+
+* Immutable audit logging for grade modifications.
+
